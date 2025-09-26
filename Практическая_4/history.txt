@@ -1,0 +1,330 @@
+Меню: 
+1  Найти персонажа 
+2  Найти эпизод
+3 Найти локацию
+4 Случайный персонаж
+5 Список всех эпизодов
+6  Выход
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+1. Найти персонажа
+
+ВЫВОД: 
+
+Введите имя персонажа: 
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+Morty Smith
+
+ВЫВОД: 
+
+Имя: Morty Smith
+Статус: Alive
+Вид Human
+Местонахождение: Citadel of Ricks
+Кол-во эпизодов: 51
+
+Меню: 
+1  Найти персонажа 
+2  Найти эпизод
+3 Найти локацию
+4 Случайный персонаж
+5 Список всех эпизодов
+6  Выход
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+2. Найти эпизод
+
+ВЫВОД: 
+
+Введите номер эпизода: 
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+1
+
+ВЫВОД: 
+
+Название Pilot
+Дата выхода: December 2, 2013
+Код эпизода S01E01
+Персонажи: ['https://rickandmortyapi.com/api/character/1', 'https://rickandmortyapi.com/api/character/2', 'https://rickandmortyapi.com/api/character/35', 'https://rickandmortyapi.com/api/character/38', 'https://rickandmortyapi.com/api/character/62']
+
+Меню: 
+1  Найти персонажа 
+2  Найти эпизод
+3 Найти локацию
+4 Случайный персонаж
+5 Список всех эпизодов
+6  Выход
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+3. Найти локацию
+
+ВЫВОД: 
+
+Введите название локации: 
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+Abadango
+
+ВЫВОД: 
+
+Название Abadango
+Тип: Cluster
+Измерение: unknown
+Число жителей: 1
+
+Меню: 
+1  Найти персонажа 
+2  Найти эпизод
+3 Найти локацию
+4 Случайный персонаж
+5 Список всех эпизодов
+6  Выход
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+4. Случайный персонаж
+
+ВЫВОД: 
+
+Имя: Rick Sanchez
+Статус: Alive
+Вид Human
+Местонахождение: Citadel of Ricks
+Кол-во эпизодов: 51
+
+Меню: 
+1  Найти персонажа 
+2  Найти эпизод
+3 Найти локацию
+4 Случайный персонаж
+5 Список всех эпизодов
+6  Выход
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+5. Список всех серий
+
+ВЫВОД: 
+
+1. Pilot
+
+ВЫВОД: 
+
+2. Lawnmower Dog
+
+ВЫВОД: 
+
+3. Anatomy Park
+
+ВЫВОД: 
+
+4. M. Night Shaym-Aliens!
+
+ВЫВОД: 
+
+5. Meeseeks and Destroy
+
+ВЫВОД: 
+
+6. Rick Potion #9
+
+ВЫВОД: 
+
+7. Raising Gazorpazorp
+
+ВЫВОД: 
+
+8. Rixty Minutes
+
+ВЫВОД: 
+
+9. Something Ricked This Way Comes
+
+ВЫВОД: 
+
+10. Close Rick-counters of the Rick Kind
+
+ВЫВОД: 
+
+11. Ricksy Business
+
+ВЫВОД: 
+
+12. A Rickle in Time
+
+ВЫВОД: 
+
+13. Mortynight Run
+
+ВЫВОД: 
+
+14. Auto Erotic Assimilation
+
+ВЫВОД: 
+
+15. Total Rickall
+
+ВЫВОД: 
+
+16. Get Schwifty
+
+ВЫВОД: 
+
+17. The Ricks Must Be Crazy
+
+ВЫВОД: 
+
+18. Big Trouble in Little Sanchez
+
+ВЫВОД: 
+
+19. Interdimensional Cable 2: Tempting Fate
+
+ВЫВОД: 
+
+20. Look Who's Purging Now
+
+ВЫВОД: 
+
+21. The Wedding Squanchers
+
+ВЫВОД: 
+
+22. The Rickshank Rickdemption
+
+ВЫВОД: 
+
+23. Rickmancing the Stone
+
+ВЫВОД: 
+
+24. Pickle Rick
+
+ВЫВОД: 
+
+25. Vindicators 3: The Return of Worldender
+
+ВЫВОД: 
+
+26. The Whirly Dirly Conspiracy
+
+ВЫВОД: 
+
+27. Rest and Ricklaxation
+
+ВЫВОД: 
+
+28. The Ricklantis Mixup
+
+ВЫВОД: 
+
+29. Morty's Mind Blowers
+
+ВЫВОД: 
+
+30. The ABC's of Beth
+
+ВЫВОД: 
+
+31. The Rickchurian Mortydate
+
+ВЫВОД: 
+
+32. Edge of Tomorty: Rick, Die, Rickpeat
+
+ВЫВОД: 
+
+33. The Old Man and the Seat
+
+ВЫВОД: 
+
+34. One Crew Over the Crewcoo's Morty
+
+ВЫВОД: 
+
+35. Claw and Hoarder: Special Ricktim's Morty
+
+ВЫВОД: 
+
+36. Rattlestar Ricklactica
+
+ВЫВОД: 
+
+37. Never Ricking Morty
+
+ВЫВОД: 
+
+38. Promortyus
+
+ВЫВОД: 
+
+39. The Vat of Acid Episode
+
+ВЫВОД: 
+
+40. Childrick of Mort
+
+ВЫВОД: 
+
+41. Star Mort: Rickturn of the Jerri
+
+ВЫВОД: 
+
+42. Mort Dinner Rick Andre
+
+ВЫВОД: 
+
+43. Mortyplicity
+
+ВЫВОД: 
+
+44. A Rickconvenient Mort
+
+ВЫВОД: 
+
+45. Rickdependence Spray
+
+ВЫВОД: 
+
+46. Amortycan Grickfitti
+
+ВЫВОД: 
+
+47. Rick & Morty's Thanksploitation Spectacular
+
+ВЫВОД: 
+
+48. Gotron Jerrysis Rickvangelion
+
+ВЫВОД: 
+
+49. Rickternal Friendshine of the Spotless Mort
+
+ВЫВОД: 
+
+50. Forgetting Sarick Mortshall
+
+ВЫВОД: 
+
+51. Rickmurai Jack
+
+Меню: 
+1  Найти персонажа 
+2  Найти эпизод
+3 Найти локацию
+4 Случайный персонаж
+5 Список всех эпизодов
+6  Выход
+
+ВВОД ПОЛЬЗОВАТЕЛЯ: 
+
+6. Выход
+
